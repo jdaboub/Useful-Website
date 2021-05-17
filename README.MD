@@ -1,4 +1,4 @@
-# NodeJS Shopping Cart - NodeJS, Express, Express-Session, Express handlebars (hbs) CTSG
+# NodeJS Shopping Cart - NodeJS, Express, Express-Session, Express handlebars (hbs) AACTSG
 
 ### Run locally on your machine
 You need to have installed Node and NPM.
